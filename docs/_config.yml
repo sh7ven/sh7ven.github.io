@@ -1,0 +1,15 @@
+title: Shiven's blog
+email: shivenkashyap24@gmail.com
+description: Musings of a programmer.
+baseurl:
+# twitter_username: 
+github_username: thesvn
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# google_analytics: 
+# disqus_shortname:
+
+excerpt_separator: <!-- more -->
