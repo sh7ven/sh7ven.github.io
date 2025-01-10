@@ -3,7 +3,7 @@ email: shivenkashyap24@gmail.com
 description: Musings of a programmer.
 baseurl:
 # twitter_username: 
-github_username: thesvn
+github_username: sh7ven
 
 markdown: kramdown
 kramdown:
